@@ -1,0 +1,14 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.bundle/
+vendor/
+bin/
+Gemfile.lock
+_site/
+_drafts/
+.sass-cache/
+.jekyll-metadata
+.htaccess
