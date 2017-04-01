@@ -19,3 +19,11 @@ I work as a Cloud Architect, with the focus on virtualization and automation usi
 
 * [Personal blog]({{ site.data.authors.mfa.web }}){:target="_blank"}
 * [Twitter]({{ site.data.authors.mfa.twitter }}){:target="_blank"}
+
+## Steffen Christensen
+I work as a Senior Consultant SDDC at [VMware Professional Services NEMEA](http://www.vmware.com/professional-services.html){:target="_blank"}, with base in Denmark.
+
+{% include image.html img="/assets/leaders/steffen.jpg" alt-title="Steffen.jpg" %}
+
+* [Personal blog]({{ site.data.authors.sc.web }}){:target="_blank"}
+* [Twitter]({{ site.data.authors.sc.twitter }}){:target="_blank"}
